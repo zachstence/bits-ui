@@ -1,5 +1,11 @@
 # bits-ui
 
+## 2.11.7
+
+### Patch Changes
+
+- fix(Select): prevent interrupting scroll when virtual select items are added ([`b71a01b`](https://github.com/huntabyte/bits-ui/commit/b71a01b288f7d9f98440a14700ca949867ffdecd))
+
 ## 2.11.6
 
 ### Patch Changes
